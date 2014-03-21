@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Rawnet_Feefo>
+        <active>true</active>
+        <codePool>local</codePool>
+    </Rawnet_Feefo>
+  </modules>
+</config>
